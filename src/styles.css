@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.otp-wrap {
+  display: flex;
+  gap: 7px;
+  justify-content: center;
+  align-items: center;
+}
+
+.otp-inp {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  text-align: center;
+}
